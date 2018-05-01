@@ -43,7 +43,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group :development, :test do
 
 gem 'sqlite3'
-end
+
 
 group:production do
 
